@@ -1,8 +1,33 @@
-/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
-/* zurb.com */
-/* humanstxt.org */
 
-/* SITE */
-  Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
-  Software: Sublime, Git, Sass
+    The humans.txt file explains the team, technology, and graphic assets 
+    behind this site.
+
+_______________________________________________________________________________
+
+PEOPLE
+
+This website was hand-crafted by New Orleanians.
+
+Max Gaudin
+@mwaxwell
+
+Joe Ellis
+@notjoeellis
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Standards: HTML5, CSS3
+Components: jQuery, Orbit, Reveal
+Software: Sublime, Git, Sass
+
+_______________________________________________________________________________
+
+GRAPHIC ASSETS
+
+Brandon Grotesque (font)
+https://typekit.com/fonts/brandon-grotesque
+
+Font Awesome (icons)
+https://typekit.com/fonts/open-sans
+
