@@ -1,5 +1,6 @@
 body {
 	background: #fff url('../img/bright_squares.png');
+	font-family: 'Open Sans', sans-serif;
 }
 
 a {
@@ -33,7 +34,7 @@ a {
 /* Info icons */
 
 .fa-info {
-	color: #eee;
+	color: #ddd;
 }
 
 /* All unordered lists */
@@ -46,7 +47,7 @@ ul, ul li {
 
 ul li {
   margin: 1em;
-  margin-left: 1.7em;
+  margin-left: 2.5em;
 }
 
 ul li:before {
