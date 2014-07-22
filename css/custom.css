@@ -3,8 +3,17 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
-a {
+li a {
 	padding-right: 5px;
+}
+
+.title {
+	margin-top: -35px;
+	color: #454545;
+}
+
+.bracket {
+	font-size: 50px;
 }
 
 .panel {
