@@ -3,13 +3,23 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+a {
+	color: #370F3C;
+}
+
 li a {
 	padding-right: 5px;
 }
 
+/* Header */
+
+.top {
+	margin-top: 20px;
+}
+
 .title {
-	margin-top: -35px;
 	color: #454545;
+	margin-top: -10px;
 }
 
 .bracket {
@@ -21,35 +31,41 @@ li a {
 	box-shadow: 0px 0px 5px #ddd;
 }
 
-/* Big smiley in logo spot */
-
-.fa-smile-o {
-	font-size: 70px;
-	transition: color 0.5s ease;
-	color: orange;
-	margin-top: -30px;
+.panel ul {
+	margin-top: 20px;
 }
 
-.fa-smile-o:hover {
-	color: #000;
+/* Custom panel colors */
+
+
+.one {
+	border-top: 2px solid #00A0B0;
 }
 
-/* Calendar icon */
+.two {
+	border-top: 2px solid #6A4A3C;
+}
 
-.fa-calendar {
-	padding-right: 5px;
+.three {
+	border-top: 2px solid #CC333F;
+}
+
+.four {
+	border-top: 2px solid #EB6841;
+}
+
+.five {
+	border-top: 2px solid #EDC951;
+}
+
+.six {
+	border-top: 2px solid #79BD9A;
 }
 
 /* Heart in footer */
 
 .fa-heart {
 	color: red;
-}
-
-/* Div wrapping container at the top of the page */
-
-.top {
-	padding: 30px 0;
 }
 
 /* Info icons */
@@ -70,17 +86,3 @@ ul li {
   margin: .5em;
   margin-left: 2.5em;
 }
-
-/*
-ul li:before {
-  content: '\f0c8'; 
-  font-family: 'FontAwesome';
-  float: left;
-  margin-left: -1.5em;
-  color: #0074D9;
-}
-<<<<<<< HEAD
-
-=======
-*/
->>>>>>> gh-pages
