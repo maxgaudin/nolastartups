@@ -34,6 +34,18 @@ li a {
 	color: #000;
 }
 
+/* Calendar icon */
+
+.fa-calendar {
+	padding-right: 5px;
+}
+
+/* Heart in footer */
+
+.fa-heart {
+	color: red;
+}
+
 /* Div wrapping container at the top of the page */
 
 .top {
@@ -43,7 +55,7 @@ li a {
 /* Info icons */
 
 .fa-info {
-	color: #ddd;
+	color: #ccc;
 }
 
 /* All unordered lists */
@@ -51,19 +63,24 @@ li a {
 ul, ul li {
   padding: 0;
   margin: 0;
-  list-style: none;
+  
 }
 
 ul li {
-  margin: 1em;
+  margin: .5em;
   margin-left: 2.5em;
 }
 
+/*
 ul li:before {
-  content: '\f006'; /* fa-star */
+  content: '\f0c8'; 
   font-family: 'FontAwesome';
   float: left;
   margin-left: -1.5em;
   color: #0074D9;
 }
+<<<<<<< HEAD
 
+=======
+*/
+>>>>>>> gh-pages
