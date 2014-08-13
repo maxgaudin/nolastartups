@@ -4,11 +4,15 @@ body {
 }
 
 a {
-	color: #370F3C;
+	color: #8e44ad;
 }
 
 li a {
 	padding-right: 5px;
+}
+
+.main-menu li a {
+	color: #370F3C;
 }
 
 /* Header */
